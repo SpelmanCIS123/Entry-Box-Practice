@@ -11,7 +11,7 @@
 
 ![Box before results](https://github.com/andreaej/Entry-Box-Practice/blob/master/Screen%20Shot%202019-11-18%20at%209.34.08%20AM.png)
 
-![Popup box with greeting]()
+![Popup box with greeting](https://github.com/andreaej/Entry-Box-Practice/blob/master/Screen%20Shot%202019-11-18%20at%209.34.24%20AM.png)
 
 
 
