@@ -9,9 +9,9 @@
 
 ### For example
 
-![Box before results]()
+![Box before results](https://github.com/andreaej/Entry-Box-Practice/blob/master/Screen%20Shot%202019-11-18%20at%209.34.08%20AM.png)
 
-![Box with updated results]()
+![Popup box with greeting]()
 
 
 
